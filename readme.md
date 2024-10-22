@@ -1,7 +1,9 @@
 # ia2024
 
-Este proyecto pretende servir de vehiculo de aprendizaje en este año 2024-25 para el alumno JOse Manuel en el campo de la programacióbn de la inteligencia artificial
-Pasos: iniciales para llegar aqui:
+Este proyecto pretende servir de vehiculo de aprendizaje en este año 2024-25 para el alumno JOse Manuel en el campo de la programacióbn de la inteligencia artificial.
+
+
+Anexo Pasos iniciales para llegar aqui:
 [Paso0_Cuenta_repositorio y archivo.pdf](https://github.com/user-attachments/files/17473592/Paso0_Cuenta_repositorio.y.archivo.pdf)
 
 ### Ventajas de usar un archivo `README` bien estructurado:
