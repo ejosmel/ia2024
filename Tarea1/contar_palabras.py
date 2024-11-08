@@ -3,7 +3,7 @@ def contar_palabras(texto):
     texto = texto.lower()
     
     # Reemplazar signos de puntuación comunes con espacios
-    for signo in [",", ".", ":", ";", "!", “¿”,"?", "(", ")"]:
+    for signo in [",", ".", ":", ";", "!", "¿","?", "(", ")"]:
         texto = texto.replace(signo, " ")
     
     # Separar el texto en palabras
@@ -25,4 +25,3 @@ def contar_palabras(texto):
     for palabra in palabras_ordenadas:
         print(f"{palabra}: {conteo_palabras[palabra]}")
         
-p
